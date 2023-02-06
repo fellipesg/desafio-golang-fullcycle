@@ -5,7 +5,7 @@
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
-docker run <seu-user>/fullcycle
+docker run fellipesg/fullcycle
 
 Temos que ter o seguinte resultado: Full Cycle Rocks!!
 
@@ -21,6 +21,9 @@ Divirta-se
 
   
 # Execução
+
+O link da imagem no docker hub é:
+ * https://hub.docker.com/repository/docker/fellipesg/fullcycle/general
 
 Como solicitado, basta rodar o comando:
 * docker run fellipesg/fullcycle 
